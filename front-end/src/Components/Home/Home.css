@@ -1,0 +1,14 @@
+/* Home.css */
+.home-container {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f8f8f8;
+  }
+  
+  .welcome-text {
+    color: #007bff;
+    font-size: 24px;
+  }
+  
